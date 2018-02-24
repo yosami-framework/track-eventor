@@ -1,7 +1,8 @@
 {
   "name": "track-eventor",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Event manager for track.",
+  "main": "lib/index.js",
   "repository": "alfa-jpn/track-eventor.git",
   "scripts": {
     "linter": "eslint ./",
