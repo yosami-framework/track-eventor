@@ -1,5 +1,5 @@
-const t                   = require('track-spec');
-const TrackEvent          = require('../lib/index');
+const t            = require('track-spec');
+const TrackEventor = require('../lib/index');
 
 t.describe('TrackEvent', () => {
   t.beforeEach(() => {
@@ -11,7 +11,7 @@ t.describe('TrackEvent', () => {
   });
 
   t.describe('#dispatch', () => {
-    const subject = (() => TrackEvent.dispatch('hoge', data));
+    const subject = (() => TrackEventor.dispatch('hoge', data));
     let data = null;
 
     t.beforeEach(() => {
