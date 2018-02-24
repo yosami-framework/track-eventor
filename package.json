@@ -1,6 +1,6 @@
 {
   "name": "track-eventor",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Event manager for track.",
   "repository": "alfa-jpn/track-eventor.git",
   "scripts": {
