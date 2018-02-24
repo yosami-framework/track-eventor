@@ -1,8 +1,8 @@
 {
-  "name": "track-event",
-  "version": "0.0.1",
+  "name": "track-eventor",
+  "version": "0.0.2",
   "description": "Event manager for track.",
-  "repository": "alfa-jpn/track-event.git",
+  "repository": "alfa-jpn/track-eventor.git",
   "scripts": {
     "linter": "eslint ./",
     "test": "ospec"
