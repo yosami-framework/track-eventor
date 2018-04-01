@@ -1,6 +1,8 @@
 # TrackEventor
 Event manager for track.
 
+[![Build Status](https://travis-ci.org/yosami-framework/track-eventor.svg?branch=master)](https://travis-ci.org/yosami-framework/track-eventor)
+
 ## Installation
 
 ### npm
